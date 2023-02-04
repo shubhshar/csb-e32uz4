@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "https://shubhshar.github.io/csb-e32uz4/static/css/main.0161ffa2.chunk.css",
+    "main.js": "https://shubhshar.github.io/csb-e32uz4/static/js/main.db94d7b8.chunk.js",
+    "main.js.map": "https://shubhshar.github.io/csb-e32uz4/static/js/main.db94d7b8.chunk.js.map",
+    "runtime-main.js": "https://shubhshar.github.io/csb-e32uz4/static/js/runtime-main.f3793664.js",
+    "runtime-main.js.map": "https://shubhshar.github.io/csb-e32uz4/static/js/runtime-main.f3793664.js.map",
+    "static/js/2.7a4c1180.chunk.js": "https://shubhshar.github.io/csb-e32uz4/static/js/2.7a4c1180.chunk.js",
+    "static/js/2.7a4c1180.chunk.js.map": "https://shubhshar.github.io/csb-e32uz4/static/js/2.7a4c1180.chunk.js.map",
+    "index.html": "https://shubhshar.github.io/csb-e32uz4/index.html",
+    "static/css/main.0161ffa2.chunk.css.map": "https://shubhshar.github.io/csb-e32uz4/static/css/main.0161ffa2.chunk.css.map",
+    "static/js/2.7a4c1180.chunk.js.LICENSE.txt": "https://shubhshar.github.io/csb-e32uz4/static/js/2.7a4c1180.chunk.js.LICENSE.txt",
+    "static/media/address.a01cb8cc.png": "https://shubhshar.github.io/csb-e32uz4/static/media/address.a01cb8cc.png",
+    "static/media/av4v.a98e0d6f.png": "https://shubhshar.github.io/csb-e32uz4/static/media/av4v.a98e0d6f.png",
+    "static/media/av5.4029e2b0.png": "https://shubhshar.github.io/csb-e32uz4/static/media/av5.4029e2b0.png",
+    "static/media/email.a49e0158.png": "https://shubhshar.github.io/csb-e32uz4/static/media/email.a49e0158.png",
+    "static/media/phone.d90a6d23.png": "https://shubhshar.github.io/csb-e32uz4/static/media/phone.d90a6d23.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3793664.js",
+    "static/js/2.7a4c1180.chunk.js",
+    "static/css/main.0161ffa2.chunk.css",
+    "static/js/main.db94d7b8.chunk.js"
+  ]
+}
